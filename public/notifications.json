@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Mark Webber",
+      "image": "images/Mark.jpg",
+      "message": "reacted to your recent post",
+      "details": "My first tournament today!",
+      "time": "1m ago",
+      "read": false
+    },
+    {
+      "id": 2,
+      "name": "Angela Gray",
+      "image": "images/Angela.jpg",
+      "message": "followed you",
+      "time": "5m ago",
+      "read": false
+    },
+    {
+      "id": 3,
+      "name": "Jacob Thompson",
+      "image": "images/jacob.jpg",
+      "message": "has joined your group",
+      "group": "Chess Club",
+      "time": "1 day ago",
+      "read": false
+    },
+    {
+      "id": 4,
+      "name": "Rizky Hasanuddin",
+      "image": "images/Rizky.jpg",
+      "message": "sent you a private message",
+      "private": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "time": "5 days ago",
+      "read": false
+    },
+    {
+      "id": 5,
+      "name": "Kimberly Smith",
+      "image": "images/Kimberly.jpg",
+      "image2": "images/RectangleKimberly2.jpg",
+      "message": "commented on your picture",
+      "time": "1 week ago",
+      "read": true
+    },
+    {
+      "id": 6,
+      "name": "Nathan Peterson",
+      "image": "images/Nathan.jpg",
+      "message": "reacted to your recent post",
+      "detail1": "5 end-game strategies to",
+      "detail2": "increase your win rate",
+      "time": "2 weeks ago",
+      "read": true
+    },
+    {
+      "id": 7,
+      "name": "Anna Kim",
+      "image": "images/Anna.jpg",
+      "message": "left the group",
+      "group": "Chess Club",
+      "time": "2 weeks ago",
+      "read": true
+    }
+    
+  ]
+  
