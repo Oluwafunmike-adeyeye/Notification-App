@@ -65,7 +65,7 @@ function Notifications() {
               style={{ cursor: 'pointer' }}
             >
               <div className='flex gap-2 md:gap-6 py-2'>
-                <img src={notification.image} className='w-[39px] h-[39px] md:w-[45px] md:h-[45px] ' alt="profile picture" />
+                <img src={notification.image} className='w-[39px] h-[39px] md:w-[45px] md:h-[45px] ' alt="avatar" />
                 <div className='flex-col text-[14px] md:text-[16px]'>
                   <div className="md:flex items-center">
                     <span className="font-[800]">{notification.name}</span>
